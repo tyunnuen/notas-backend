@@ -1,0 +1,4 @@
+- Se usa supabase para mantener la database de las notas.
+- Se hace deploy en render.com para la database.
+- El DATABASE_URL se pone como argumento dentro de render.com (porque tiene password).
+- Del url, se conecta el frontend.
